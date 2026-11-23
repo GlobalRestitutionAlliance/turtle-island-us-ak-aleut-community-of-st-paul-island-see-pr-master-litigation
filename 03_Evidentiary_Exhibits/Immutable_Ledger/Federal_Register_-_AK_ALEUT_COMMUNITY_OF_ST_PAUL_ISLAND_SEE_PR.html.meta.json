@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+ALEUT+COMMUNITY+OF+ST+PAUL+ISLAND+SEE+PR",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+ALEUT+COMMUNITY+OF+ST+PAUL+ISLAND+SEE+PR",
+  "title": "Federal Register - AK ALEUT COMMUNITY OF ST PAUL ISLAND SEE PR",
+  "fetched_at": "2026-11-23T15:37:49.538597Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 119678,
+  "sha256": "50d104eaa5f2814e377bcac8aad4149dadaee1c078ff2c9ac6f55d6d915f355a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
